@@ -6,11 +6,11 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.13.7
+#       jupytext_version: 1.14.0
 #   kernelspec:
-#     display_name: venv-dlc
+#     display_name: Python 3.9.12 ('nwb')
 #     language: python
-#     name: venv-dlc
+#     name: python3
 # ---
 
 # %% [markdown] tags=[]
